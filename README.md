@@ -10,11 +10,17 @@ Aquí hay un ejemplo de código en C#:
 
 C#
 `using System;`
+
 `public class ubuntu {`
+
 `public static void Main(){`
+
 `int a = 0;`
+
 `Console.WriteLine("Hola mundo!")`
+
 `	}`
+
 `}`
 
 
