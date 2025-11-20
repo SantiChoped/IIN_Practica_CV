@@ -6,7 +6,7 @@ En este repositorio he hecho la practica de git con sus respectivos apartados :)
 
 Aquí hay un ejemplo de código en C#:
 
-`C#
+´C#
 using System;
 public class ubuntu {
 
