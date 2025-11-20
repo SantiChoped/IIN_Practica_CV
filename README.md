@@ -6,7 +6,7 @@ En este repositorio he hecho la practica de git con sus respectivos apartados :)
 
 Aquí hay un ejemplo de código en C#:
 
-´C#
+`C#
 using System;
 public class ubuntu {
 
@@ -15,7 +15,7 @@ public static void Main(){
 int a = 0;
 Console.WriteLine("Hola mundo!")
 	}
-}´
+}`
 
 ![foto de santi con gafas](mifoto.jpg)
 
