@@ -10,7 +10,7 @@ Aquí hay un ejemplo de código en C#:
 	
 Console.WriteLine("Hola mundo!")`
 
-![foto de santi con gafas](mifoto.jng)
+![foto de santi con gafas](mifoto.jpg)
 
 # Autor
 
