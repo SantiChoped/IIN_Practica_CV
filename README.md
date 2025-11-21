@@ -10,9 +10,9 @@ Aquí hay un ejemplo de código en C#:
 
 C#
 
-`using System;`
+`using System; \t public class ubuntu {`
 
-`public class ubuntu {`
+
 
 `public static void Main(){`
 
